@@ -17,8 +17,8 @@
 </div>
 
 <br />
-(https://visit-counter.vercel.app/counter.png?page=Seanmojica17/WD-HO2)
----
+
+![](https://visit-counter.vercel.app/counter.png?page=Seanmojica17/WD-HO2)
 
 <br />
 <br />
