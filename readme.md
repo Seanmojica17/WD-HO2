@@ -18,7 +18,7 @@
 
 <br />
 
-![](https://visit-counter.vercel.app/counter.png?page=Seanmojica17/WD-HO2)
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FSeanmojica17%2FWD-HO2%3Ftab%3Dreadme-ov-file%23technology&s=40&c=ff0000&bg=00000000&no=2&ff=digi&tb=&ta=)
 
 <br />
 <br />
